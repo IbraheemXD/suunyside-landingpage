@@ -64,7 +64,7 @@ ul {
 
 .banner {
     grid-column: full-start / full-end;
-    background-image: url('/images/desktop/image-header.jpg');
+    background-image: url('./../images/desktop/image-header.jpg');
     background-position: center;
     background-size: cover;
 
@@ -152,14 +152,14 @@ nav {
 }
 .story__picture-1 {
     grid-column: col-start 5 / full-end;
-    background-image: url('/images/desktop/image-transform.jpg');
+    background-image: url('./../images/desktop/image-transform.jpg');
 }
 .story__content-2 {
     grid-column: col-start 5 / full-end;
 }
 .story__picture-2 {
     grid-column: full-start / col-end 4;
-    background-image: url('/images/desktop/image-stand-out.jpg');
+    background-image: url('./../images/desktop/image-stand-out.jpg');
 }
 
 .story__content {
@@ -235,11 +235,11 @@ nav {
 
 .feature1 {
     grid-column: full-start / col-end 4;
-    background-image: url('/images/desktop/image-graphic-design.jpg');
+    background-image: url('./../images/desktop/image-graphic-design.jpg');
 }
 .feature2 {
     grid-column: col-start 5 / full-end;
-    background-image: url('/images/desktop/image-photography.jpg');
+    background-image: url('./../images/desktop/image-photography.jpg');
 }
 .feature__text-container {
     align-items: center;
